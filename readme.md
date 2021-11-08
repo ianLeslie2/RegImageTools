@@ -46,8 +46,10 @@ The results you get vary a fair bit with the chosen region-count and sub-image l
 Although the tool is "automatic" in a sense, there are a lot of input parameters you can adjust.
 
 ## What's the point?
-I created this project out of personal interest and the desire to create composition images that contrast a pretty overall image with unpleasant or unnerving sub-components. (which is why many of the examples images use stuff like worms as the sub-image set)
-The Image-Simplification tool was just a pre-processing step I created for the composition part, but I actually quite like some of the results you can get from simplification directly. You can often find a sweet-spot where an image is still well recognizeable while using far fewer regions and there is a beauty in it's simplicity.
+I created this project out of personal interest and the desire to create composition images that contrast a pretty overall image with unpleasant or unnerving sub-components.
+(which is why many of the examples images use stuff like worms as the sub-image set)\
+The Image-Simplification tool was just a pre-processing step I created for the composition part, but I actually quite like some of the results you can get from simplification directly.\
+You can often find a sweet-spot where an image is still well recognizeable while using far fewer regions and there is a beauty in the simplicity.
 
 So to answer the question, I like the kind of results you can get from it and thought others might enjoy it too.
 That said, beauty is subjective so I totally understand if some people just think the results look strictly worse than the originals.
