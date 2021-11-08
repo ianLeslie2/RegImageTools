@@ -290,7 +290,7 @@ Currently the tools don't actually use the alpha value at all. All pixels are co
 However for the sake of future compatiblity the dll should handle the alpha channel as well.\
 That way if it later gets used the dll won't need to be updated.
 
-## Current Implimentation
+## Current Implementation
 The currently supplied ImageInterface project relies on a local ImageMagick installation.\
 The "magick" tool is used to convert files to & from the BMP format for which the DLL has limitted built-in support.\
 (Not all variants of BMP are supported but magick should only produce BMP files that the DLL can read)
