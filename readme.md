@@ -21,7 +21,7 @@ Functionally this project basically has two goals:
 1. Generate simplified versions of images where the image is represented as a set of uniformely colored connected regions
 2. Generate composition versions of images where the original image is represented through a set of smaller images. To generate this "composition" the region-data from the previous step is used. Each connected region is used as a mask for a sub-image used in the composition.
 
- (Disclaimer: All images used here were collected from the web and credit goes to their respective authors)
+ (Disclaimer: All base-images used here were collected from the web and credit goes to their respective authors)
 
 To give some visual examples, here's an unedited image:
 ![Unedited Original "Dance"](ImgExamples/dance_original.jpg)
