@@ -1,20 +1,20 @@
 ## Table Of Contents:
-- What is this project about?
-  - What's the point?
-- Overview of included projects
-- Quickstart/Setup
-- ImageSimplify
-  - Algorithm Design
-  - General Usage
-  - Arguments
-- ImageComp
-  - Algorithm Design
-  - General Usage
-  - Arguments
-- ImageInterface
-- SharedLib
-- .regdata format
-- Future Plans
+- [What is this project about?](#what-is-this-project-about)
+  - [What's the point?](#whats-the-point)
+- [Overview of included projects](#overview-of-included-projects)
+- [Quickstart/Setup](#quickstart--setup)
+- [ImageSimplify](#about-imagesimplify)
+  - [Algorithm Design](#algorithm-design)
+  - [General Usage](#general-usage)
+  - [Arguments](#optional-arguments)
+- [ImageComp](#about-imagecomp)
+  - [Algorithm Design](#algorithm-design-1)
+  - [General Usage](#general-usage-1)
+  - [Arguments](#optional-arguments-1)
+- [ImageInterface](#about-imageinterface)
+- [SharedLib](#about-sharedlib)
+- [.regdata format](#the-regdata-file-format)
+- [Future Plans](#future-plans)
 
 # What is this project about?
 Functionally this project basically has two goals:
