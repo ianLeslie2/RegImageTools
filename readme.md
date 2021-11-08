@@ -275,7 +275,7 @@ This project generates a dll called ImageInterface.dll with three methods:
 The methods are fairly self-explanatory.\
 The pixel data is stored in an sRGB format in a uint8_t array\
 Each pixel consists of the 4 values: red, green, blue, alpha\
-Pixels are written left to right, bottom to top.\
+Pixels are written left to right, bottom to top.
 
 `canProcess` is called on any potentially used path before readData or writeData are called and is mainly used to check whether a given file-type is supported.
 
